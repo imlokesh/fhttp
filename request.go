@@ -24,9 +24,9 @@ import (
 	"strings"
 	"sync"
 
-	tls "github.com/Danny-Dasilva/utls"
+	tls "github.com/imlokesh/utls"
 
-	"github.com/Danny-Dasilva/fhttp/httptrace"
+	"github.com/imlokesh/fhttp/httptrace"
 
 	"golang.org/x/net/idna"
 )
